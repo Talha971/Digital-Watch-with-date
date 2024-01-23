@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  color: yellow;
+  background-color: black;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  display: inline-block;
+  width: 150px;
+  font-size: 100px;
+  text-align: center;
+}
+.ms {
+  font-size: 50px;
+}
